@@ -77,6 +77,7 @@ def main():
     consulta_sql = "SELECT * FROM respostas"
     resultado_sql = consultar_sql(engine, consulta_sql)
     print(resultado_sql)
+    print("Tal alteração")
 
 
 if __name__ == "__main__":
