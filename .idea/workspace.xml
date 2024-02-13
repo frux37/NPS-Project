@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ff7fc76-1046-4c17-8f42-577b6ad591c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4ff7fc76-1046-4c17-8f42-577b6ad591c3" name="Changes" comment="Simplesmente um teste">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707846915380</updated>
     </task>
+    <task id="LOCAL-00001" summary="Simplesmente um teste">
+      <option name="closed" value="true" />
+      <created>1707847084278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707847084278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Simplesmente um teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simplesmente um teste" />
   </component>
 </project>
