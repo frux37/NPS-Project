@@ -74,7 +74,7 @@ def main():
     salvar_em_csv(df_respostas, r'C:\Users\carlos.aguirre\Desktop\e-NPS\respostas.csv', sep="|")
 
     # Exemplo de consulta SQL
-    consulta_sql = "SELECT responder FROM respostas"
+    consulta_sql = "SELECT * FROM respostas"
     resultado_sql = consultar_sql(engine, consulta_sql)
     print(resultado_sql)
     print("Tal alteração")

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ff7fc76-1046-4c17-8f42-577b6ad591c3" name="Changes" comment="Simplesmente um teste">
+    <list default="true" id="4ff7fc76-1046-4c17-8f42-577b6ad591c3" name="Changes" comment="commitado">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,11 +81,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707847084278</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commitado">
+      <option name="closed" value="true" />
+      <created>1707847489255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707847489255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Simplesmente um teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simplesmente um teste" />
+    <MESSAGE value="commitado" />
+    <option name="LAST_COMMIT_MESSAGE" value="commitado" />
   </component>
 </project>
