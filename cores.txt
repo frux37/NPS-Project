@@ -1,0 +1,3 @@
+#40C057 | verde
+#FAB005 | amarelo
+#FA5252 | Vermelho
